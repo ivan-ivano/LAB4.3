@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../LAB3.3/.idea/LAB3.3.iml" filepath="$PROJECT_DIR$/../LAB3.3/.idea/LAB3.3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../LAB3.4/.idea/LAB3.4.iml" filepath="$PROJECT_DIR$/../LAB3.4/.idea/LAB3.4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../LAB4.1/.idea/LAB4.1.iml" filepath="$PROJECT_DIR$/../LAB4.1/.idea/LAB4.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../LAB4.2/.idea/LAB4.2.iml" filepath="$PROJECT_DIR$/../LAB4.2/.idea/LAB4.2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/LAB4.3.iml" filepath="$PROJECT_DIR$/.idea/LAB4.3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../LAB4.4/.idea/LAB4.4.iml" filepath="$PROJECT_DIR$/../LAB4.4/.idea/LAB4.4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../LAB4.5/.idea/LAB4.5.iml" filepath="$PROJECT_DIR$/../LAB4.5/.idea/LAB4.5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../LAB4.6/.idea/LAB4.6.iml" filepath="$PROJECT_DIR$/../LAB4.6/.idea/LAB4.6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../LAB4.7/.idea/LAB4.7.iml" filepath="$PROJECT_DIR$/../LAB4.7/.idea/LAB4.7.iml" />
+    </modules>
+  </component>
+</project>
